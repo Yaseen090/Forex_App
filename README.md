@@ -10,7 +10,7 @@ VisualStudioCode <br/>
 Jupyter Notebook/Python <br/>
 
 ## Preview:
-<a><img src="https://github.com/Yaseen090/2D_Matrix_Calculator/blob/main/2DMatrixCalculator1.PNG" width="210" height="400"></a>
+<a><img src="https://github.com/Yaseen090/Forex_App/blob/main/SignUp%2001.png" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/2D_Matrix_Calculator/blob/main/2DMatrixCalculator2.PNG" width="210" height="400"></a>
 <br/>
 Thanks
