@@ -1,4 +1,4 @@
-## 2D Matrix Calculator
+## Forex App
 ## About
 This was my Final Year project. It is a flutter based app with backend in python. I have created an app that hosts algorithmic trading bots. These bots trade on their own with tested strategies. You can also create new bots with this 
 ## Features
